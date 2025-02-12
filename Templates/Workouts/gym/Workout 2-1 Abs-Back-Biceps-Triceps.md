@@ -30,11 +30,12 @@ workout.renderRemaining(note);
 ```
 
 ## Performed Exercises
-```button
-name Log
-type command
-action QuickAdd: Log
-color green
+```meta-bind-button
+style: primary
+label: Log
+action:
+  type: command
+  command: quickadd:choice:d5df32b0-6a04-481d-9a8d-b9bd1b2f0ea7
 ```
 ^button-2vzj
 ```dataviewjs

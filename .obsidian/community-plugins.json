@@ -3,9 +3,9 @@
   "quickadd",
   "media-extended",
   "templater-obsidian",
-  "buttons",
   "obsidian-charts",
   "heatmap-calendar",
   "tag-wrangler",
-  "customjs"
+  "customjs",
+  "obsidian-meta-bind-plugin"
 ]

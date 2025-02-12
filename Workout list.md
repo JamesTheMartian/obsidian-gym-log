@@ -1,8 +1,9 @@
-```button
-name Add workout
-type command
-action QuickAdd: Add workout
-color green
+```meta-bind-button
+style: primary
+label: Add workout
+action:
+  type: command
+  command: quickadd:choice:b15a6358-38c0-47f6-afa2-45778dc5353d
 ```
 ^button-wf7a
 
